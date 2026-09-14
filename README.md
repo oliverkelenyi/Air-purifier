@@ -1,5 +1,5 @@
 # Air-purifier
-This is a DIY air purifier, it purifies the air with 2 HEPA and activated carbon combined filter and with the power pf 2 120mm fan. I made this because I dont want to die from 3d printing's odors and soldering 10 year earlyer. This is different from other products because you can use usbc and it has a built in usb a cable too! It is also small and compact but effective!
+This is a DIY air purifier, it purifies the air with 2 HEPA and activated carbon combined filter and with the power pf 2 120mm fan. I made this because I dont want to die from 3d printing's odors and soldering 10 year earlyer. This is different from other products because you can use USB-C and it has a built in USB-A cable too! It is also small and compact but effective!
 
 After you made it, you just have to plug in the built in USB or plug in a USB-C cable and turn on the power button, and it will work!
 
