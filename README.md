@@ -13,3 +13,4 @@ After you made it, you just have to plug in the built in USB or plug in a USB-C 
 
 Schematic: <img width="2480" height="1748" alt="image" src="https://github.com/user-attachments/assets/7f418657-53ba-4c4a-80bc-1144684b3b4c" />
 You have to adjust the output from the booster module to 12v (it has a built in potentiometer for this)!
+The assembled 3D model (white: pla, black: tpu95A) <img width="741" height="836" alt="Képernyőkép 2026-09-14 211439" src="https://github.com/user-attachments/assets/c48c9610-96fd-4194-a5b9-965c20b32097" />
