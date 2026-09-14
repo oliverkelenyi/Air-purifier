@@ -7,6 +7,6 @@ A DIY air purifier to not to die for example from 3d printing's odors 10 year ea
 
 
 3.: Follow the assesebling as it shown in the linked video. (For hc reviewer: I didnt got the money yet to buy the components to make the video.
-(images/r<img width="994" height="864" alt="Képernyőkép 2026-09-10 224122" src="https://github.com/user-attachments/assets/84df1f8d-7436-4301-ba31-241c76cc85b6" />
-ender.png)
+<img width="994" height="864" alt="Képernyőkép 2026-09-10 224122" src="https://github.com/user-attachments/assets/84df1f8d-7436-4301-ba31-241c76cc85b6" />
+
 Schematic: <img width="2480" height="1748" alt="image" src="https://github.com/user-attachments/assets/7f418657-53ba-4c4a-80bc-1144684b3b4c" />
