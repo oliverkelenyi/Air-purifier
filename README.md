@@ -1,5 +1,5 @@
 # Air-purifier
-A DIY air purifier to not to die for example from 3d printing's odors 10 year earlyer this is different because you can use usb
+A DIY air purifier to not to die for example from 3d printing's odors 10 year earlyer this is different because you can use usbc and it has a built in usb a cable too! It is also small and compact but effective!
 
 1.: What you have to do is: 3d print the main structure from pla and the other smaler parts from tpu95A. 
 2.: Buy these: MT3608-2A-USBC, KCD11-2P, PWR-USB-C-BK, 74HC32 SMD, 2*ELIZ EF100, 2* 120 mm pc cooling fan and if you dont have it, get a trash maybe even cut (not save) usb cable (bill of materials in my case (these are in hungarian forint): <img width="1315" height="328" alt="Képernyőkép 2026-09-10 233658" src="https://github.com/user-attachments/assets/430f0b3a-7ac4-405f-87f4-f007fd6914a8" />
