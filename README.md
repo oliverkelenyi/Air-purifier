@@ -9,7 +9,19 @@ After you made it, you just have to plug in the built in USB or plug in a USB-C 
 
 
 3.: Follow the assesebling as it shown in the linked video. (For hc reviewer: I didnt got the money yet to buy the components to make the video.
-<img width="994" height="864" alt="Képernyőkép 2026-09-10 224122" src="https://github.com/user-attachments/assets/84df1f8d-7436-4301-ba31-241c76cc85b6" />
+<img width="994" height="864" alt="Képernyőkép 2026
+
+Reference,Qty,Value,Footprint,Manufacturer,MPN,LCSC Part,Unit Price (HUF),Unit Price ($),Total Price (HUF),Total Price ($),Supplier Link
+Air filter,2,Filters ,ELIZ EF 100,EL�Z,ELICV022,          -,1 720,"5,42",3440,"10,84",https://www.alza.hu/eliz-ef100-d5468641.htm?evt=ac&pos=1&ste=com&sqid=Algolia_eb58aee0dc5128bff6cfaf9a3c98df8c
+Booster,1,Booster module,MT3608-2A-USBC,HESTORE Hungary Kft,100.463.30,         -,347�,"1,09",440.69,1.38,https://www.hestore.hu/prod_10046330.html
+Diode,2,Diode,1N5408,HESTORE Hungary Kft,100.000.53,C36138,"61,40�","0,19",155.96,0.36,https://www.hestore.hu/prod_10000053.html
+Swich,1,Swich,KCD11-2P,HESTORE Hungary Kft,100.479.80,C5884412,140�,"0,44",177.8,0.56,https://www.hestore.hu/prod_10047980.html
+USB-C,1,USB-C power cable,PWR-USB-C-BK,HESTORE Hungary Kft,100.475.72,         -,272�,"0,86",345.44,1.09,https://www.hestore.hu/prod_10047572.html
+Limiter,1,5v current limiter,AMS1117-5.0-CF,HESTORE Hungary Kft,100.401.92,C45369271,"69,70�","0,22",88.52,0.28,https://www.hestore.hu/prod_10040192.html
+,,,,,,,,,,,
+-09-10 224122" src="https://github.com/user-attachments/assets/84df1f8d-7436-4301-ba31-241c76cc85b6" />
+
+[bom_csv.csv](https://github.com/user-attachments/files/32414943/bom_csv.csv)
 
 Schematic: <img width="1125" height="761" alt="Képernyőkép 2026-09-15 152926" src="https://github.com/user-attachments/assets/6542af1f-475f-4bce-9f6c-137bb539fa3d" />
 
