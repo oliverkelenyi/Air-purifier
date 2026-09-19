@@ -19,7 +19,7 @@ After you make it, you just have to plug in the built-in USB or a USB-C cable an
 
 <img width="1468" height="566" alt="Képernyőkép 2026-09-14 172557" src="https://github.com/user-attachments/assets/a07965e3-04b2-4582-aa54-b1043e13196c" />
 
-3. Follow the assembly as shown in the linked video. (For HC reviewer: I didn't get the money yet to buy the components to make the video.)
+3. The holes on the side from top to bottom: 1.swich, 2.USB-C, 3.USB cable. Follow the assembly as shown in the linked video. (For HC reviewer: I didn't get the money yet to buy the components to make the video.)
 
 <img width="994" height="864" alt="Képernyőkép 2026-09-10 224122" src="https://github.com/user-attachments/assets/84df1f8d-7436-4301-ba31-241c76cc85b6" />
 
